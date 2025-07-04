@@ -15,8 +15,8 @@ In my project at DSA Incubator, I developed a comprehensive Excel-based analytic
 * Source: Web-scraped Amazon product review data
 * Each row represents: A unique product
 * Fields included:Product name, Category, Actual price & Discounted price, Discount %, Rating,Number of Ratings (Rating Count),Review content (aggregated in some columns) and Revenue potential fields (derived)
-📊 Key Analytical Tasks & Solutions
-#	Task Description	Excel Tools/Logic Used
+# # # Key Analytical Tasks & Solutions
+# Analysis Tools/Logic Used
 1	What is the average discount % by product category?	Pivot Table + Average Formula
 2	How many products are listed under each category?	Pivot Table + Count
 3	What is the total number of reviews per category?	SUM of Rating Count by category
