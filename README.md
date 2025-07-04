@@ -76,9 +76,14 @@ https://us.docworkspace.com/d/sIGq69pNT2ZefwwY?sa=601.1037
 
  About Me
 Oyedokun Sukurat Olamide
-🎓 B.Sc (Ed) Economics Education, M. Ed Educational Research, Measurement and Evaluation | 📊 Data Analyst |[image] Baker
+🎓 B.Sc (Ed) Economics Education, M. Ed Educational Research, Measurement and Evaluation | 📊 Data Analyst |Baker|Healthy Living Ethusiastes
 I’m passionate about simplifying data into impactful visuals and helping businesses make better decisions.
 This project is a reflection of my journey in Excel-based analysis and business intelligence reporting.
+
+### Contact
+Email: oyedokunolamide77@gmail.com
+Phone: +234 810 818 0906
+LinkedIn: https://www.linkedin.com/in/sukurat-oyedokun-1134ab1ab/
 
 
 
