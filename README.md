@@ -42,6 +42,15 @@ https://us.docworkspace.com/d/sIGq69pNT2ZefwwY?sa=601.1037
 
 ![image](https://github.com/user-attachments/assets/1cabdc8e-445e-44da-a33f-778a279536eb)
 
+# # Key Highlights from Dashboard:
+* Discount vs Rating: Discounted products don’t always have higher ratings. There’s a complex relationship.
+* Price Range Bucket: Most products fall under the affordable to moderately expensive range.
+* Revenue Potential: Categories like Home Kitchen and Electronics dominate in potential revenue.
+* Category-wise Review Count: Electronics and accessories lead in user engagement.
+* Top 5 Products: Based on high review count and strong ratings (e.g., AmazonsBasics FI, Realme X, etc.)
+* Discount Percentage by Category: Health and home products offered the most generous discounts.
+
+
 
 
 
