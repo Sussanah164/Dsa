@@ -74,6 +74,14 @@ https://us.docworkspace.com/d/sIGq69pNT2ZefwwY?sa=601.1037
 * Conditional Formatting
 * Named Ranges & Table References
 
+ About Me
+Oyedokun Sukurat Olamide
+🎓 B.Sc (Ed) Economics Education, M. Ed Educational Research, Measurement and Evaluation | 📊 Data Analyst | ![image](https://github.com/user-attachments/assets/5c3ead14-45f8-49b4-9b3c-7f836cf0a398)
+ Baker
+I’m passionate about simplifying data into impactful visuals and helping businesses make better decisions.
+This project is a reflection of my journey in Excel-based analysis and business intelligence reporting.
+
+
 
 
 
