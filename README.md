@@ -81,9 +81,9 @@ I’m passionate about simplifying data into impactful visuals and helping busin
 This project is a reflection of my journey in Excel-based analysis and business intelligence reporting.
 
 ### Contact
-Email: oyedokunolamide77@gmail.com
-Phone: +234 810 818 0906
-LinkedIn: https://www.linkedin.com/in/sukurat-oyedokun-1134ab1ab/
+* Email: oyedokunolamide77@gmail.com
+* Phone: +234 810 818 0906
+* LinkedIn: https://www.linkedin.com/in/sukurat-oyedokun-1134ab1ab/
 
 
 
