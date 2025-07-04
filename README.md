@@ -12,7 +12,8 @@ In my project at DSA Incubator, I developed a comprehensive Excel-based analytic
 * Source: Web-scraped Amazon product review data
 * Each row represents: A unique product
 * Fields included:
- `Product Name`
+  -`Product Name`
+  
  `Category`
  `Actual Price`
  `Discounted Price`
