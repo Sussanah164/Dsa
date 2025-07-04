@@ -10,12 +10,12 @@ Role: Junior Data Analyst
 Tools Used: Microsoft Excel (Pivot Tables, Charts, Conditional Formatting, Slicers, Cards)
 
 # Dataset Description
-Total Records: 1,465
-Columns: 16
+** Total Records: 1,465
+* *Columns: 16
 Source: Web-scraped Amazon product review data
 Each row represents: A unique product
 Fields included:
-* Product name
+Product name
 Category
 Actual price & Discounted price
 Discount %
