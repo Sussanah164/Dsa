@@ -63,8 +63,8 @@ https://us.docworkspace.com/d/sIGq69pNT2ZefwwY?sa=601.1037
 *  * High Discount ≠ High Rating: Many discounted items still received poor ratings. Price cuts alone won’t ensure customer satisfaction.
 *  * Most Reviewed Category: Electronics had the most reviews but also a wide range in satisfaction.
 *  * Revenue Optimization: Focus marketing efforts on mid-priced, highly rated products in "Home Kitchen" and "Accessories".
-*  *Product Opportunity: Products with moderate ratings but high volume reviews may benefit from improved quality or targeted feedback campaigns.
-*  *Outlier Products: A few products drive massive engagement. Promoting these further can help with cross-selling.
+* *Product Opportunity: Products with moderate ratings but high volume reviews may benefit from improved quality or targeted feedback campaigns.
+* *Outlier Products: A few products drive massive engagement. Promoting these further can help with cross-selling.
 
 
 
