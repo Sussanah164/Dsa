@@ -40,7 +40,7 @@ In my project at DSA Incubator, I developed a comprehensive Excel-based analytic
 12. How many products have fewer than 1,000 reviews?
 13. Which categories have products with the highest discounts?
 14. Identify the top 5 products in terms of rating and number of reviews combined.
-    # # |        Analysis Task                                     |                    Tools Used                                      
-|---------------------------------------------------------- ---|--------------------------------------------------------|
-|1. What is the average discount percentage by product category? |Pivot Table + Average Formula                     
+    # # |        Analysis Task                                  |                    Tools Used                                      
+|---------------------------------------------------------------|--------------------------------------------------------|
+  1. What is the average discount percentage by product category? |Pivot Table + Average Formula                     
 
