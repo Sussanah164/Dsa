@@ -38,5 +38,10 @@ https://us.docworkspace.com/d/sIGq69pNT2ZefwwY?sa=601.1037
 
 ![Amazon Data](https://github.com/user-attachments/assets/e37c6a92-cd99-4d78-a089-15ecd6458fac)
 
+![Cleaned](https://github.com/user-attachments/assets/ba4cffde-398a-41f5-83b1-0a543938ff8b)
+
+
+
+
 
 
