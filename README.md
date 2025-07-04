@@ -4,14 +4,14 @@ In my project at DSA Incubator, I developed a comprehensive Excel-based analytic
 # Objective: **Analyze Amazon product and review data to derive business insights using pivot tables, slicers, calculated columns, and data visualizations.**
 
 # Project Context
-Client Name: RetailTech Insights
-Industry: E-commerce Analytics
-Role: Junior Data Analyst
-Tools Used: Microsoft Excel (Pivot Tables, Charts, Conditional Formatting, Slicers, Cards)
+* Client Name: RetailTech Insights
+* Industry: E-commerce Analytics
+* Role: Junior Data Analyst
+* Tools Used: Microsoft Excel (Pivot Tables, Charts, Conditional Formatting, Slicers, Cards)
 
 # Dataset Description
-** Total Records: 1,465
-* *Columns: 16
+* Total Records: 1,465
+* Columns: 16
 Source: Web-scraped Amazon product review data
 Each row represents: A unique product
 Fields included:
