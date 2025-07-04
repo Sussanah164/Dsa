@@ -50,7 +50,7 @@ https://us.docworkspace.com/d/sIGq69pNT2ZefwwY?sa=601.1037
 * Top 5 Products: Based on high review count and strong ratings (e.g., AmazonsBasics FI, Realme X, etc.)
 * Discount Percentage by Category: Health and home products offered the most generous discounts.
 # # Skills & Competencies Demonstrated
-    * Skill and	How I Applied It
+    * Skill and How I Applied It
 
 * Data Cleaning: Removed nulls, corrected inconsistent formats, trimmed text
 * Data Aggregation:	Used pivot tables and grouping to summarize key insights
@@ -58,6 +58,13 @@ https://us.docworkspace.com/d/sIGq69pNT2ZefwwY?sa=601.1037
 * Visualization:	Designed intuitive charts (bar, pie, line, donut, cards)
 * Slicers & Cards: Enabled dynamic filtering and KPI display
 * Business Reasoning:	Drew conclusions based on data trends and business logic
+
+## #Business Insights (Summary)
+* 1 High Discount ≠ High Rating: Many discounted items still received poor ratings. Price cuts alone won’t ensure customer satisfaction.
+Most Reviewed Category: Electronics had the most reviews but also a wide range in satisfaction.
+Revenue Optimization: Focus marketing efforts on mid-priced, highly rated products in "Home Kitchen" and "Accessories".
+Product Opportunity: Products with moderate ratings but high volume reviews may benefit from improved quality or targeted feedback campaigns.
+Outlier Products: A few products drive massive engagement. Promoting these further can help with cross-selling.
 
 
 
