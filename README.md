@@ -27,12 +27,13 @@ In my project at DSA Incubator, I developed a comprehensive Excel-based analytic
 * 9	Total potential revenue (actual_price × rating_count) per category?	(New Calculated Column + Pivot Table SUM)
 * 10	Unique product count per price range bucket (<₹200, ₹200–₹500, >₹500)?	(IF formulas + Donut Chart)
 * 11	Relationship between rating and discount level?	(Scatter Line Chart (2 y-axes)
-* 12	How many products have fewer than 1,000 reviews?	(COUNTIF Formula + Bar Chart)![image](https://github.com/user-attachments/assets/daffd86e-ffb0-4d81-a774-3601761f9fed)
-
+* 12	How many products have fewer than 1,000 reviews?	(COUNTIF Formula + Bar Chart)
 * 13	Categories with highest average discount?	(Sorted Pivot Table by Discount%)
 * 14	Top 5 products by combined review count and rating	(Ranking logic using SUM(Rating × ReviewCount)
 
 ## Analysed Files
 https://us.docworkspace.com/d/sIGq69pNT2ZefwwY?sa=601.1037
+
+![image](https://github.com/user-attachments/assets/87665400-a87a-4b0f-92f5-0941a353510a)
 
 
