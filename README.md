@@ -49,6 +49,15 @@ https://us.docworkspace.com/d/sIGq69pNT2ZefwwY?sa=601.1037
 * Category-wise Review Count: Electronics and accessories lead in user engagement.
 * Top 5 Products: Based on high review count and strong ratings (e.g., AmazonsBasics FI, Realme X, etc.)
 * Discount Percentage by Category: Health and home products offered the most generous discounts.
+# # Skills & Competencies Demonstrated
+Skill and	How I Applied It
+
+* Data Cleaning: Removed nulls, corrected inconsistent formats, trimmed text
+* Data Aggregation:	Used pivot tables and grouping to summarize key insights
+* Excel Formulas:	IF, COUNTIF, AVERAGEIFS, PROPER, calculated columns
+* Visualization:	Designed intuitive charts (bar, pie, line, donut, cards)
+* Slicers & Cards: Enabled dynamic filtering and KPI display
+* Business Reasoning:	Drew conclusions based on data trends and business logic
 
 
 
